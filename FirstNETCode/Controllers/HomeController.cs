@@ -26,5 +26,10 @@ namespace FirstNETCode.Controllers
 
             return View();
         }
+
+        public ActionResult Help()
+        {
+            return View();
+        }
     }
 }

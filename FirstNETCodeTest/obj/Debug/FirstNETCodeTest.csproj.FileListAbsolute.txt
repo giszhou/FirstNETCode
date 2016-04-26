@@ -1,0 +1,6 @@
+C:\Users\jzhou\Documents\GitHub\TestCode\FirstNETCode\FirstNETCodeTest\bin\Debug\FirstNETCodeTest.dll
+C:\Users\jzhou\Documents\GitHub\TestCode\FirstNETCode\FirstNETCodeTest\bin\Debug\FirstNETCodeTest.pdb
+C:\Users\jzhou\Documents\GitHub\TestCode\FirstNETCode\FirstNETCodeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jzhou\Documents\GitHub\TestCode\FirstNETCode\FirstNETCodeTest\obj\Debug\FirstNETCodeTest.csprojResolveAssemblyReference.cache
+C:\Users\jzhou\Documents\GitHub\TestCode\FirstNETCode\FirstNETCodeTest\obj\Debug\FirstNETCodeTest.dll
+C:\Users\jzhou\Documents\GitHub\TestCode\FirstNETCode\FirstNETCodeTest\obj\Debug\FirstNETCodeTest.pdb
